@@ -18,5 +18,5 @@ let mySprite = sprites.create(img`
 `)
 mySprite.say("press A to browse to makecode.com")
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
-    web.open("https://makecode.com/")
+    web.open("https://www.kirtilals.com/")
 })// Add your code here
